@@ -1,0 +1,12 @@
+
+K této knize se svět chová velice <capital>laskavě</capital>. 
+Jen z různých edicí vydaných v <red>Anglii</red> se už prodalo přes půldruhého miliónu výtisků. 
+A v <hide>Chicagu</hide> se mi už před mnoha lety dostalo ujištění - z úst jistého podnikavého piráta nyní v. v.
+ - že víc než <highlight>milión výtisků</highlight> se prodalo ve <green>Spojených státech</green>.
+
+Test několikanásobného formátování:
+<yellowhighlight><green><capital>Ahoj</capital></green></yellowhighlight> <red><hide>jak</hide></red> <capital><green>se</green></capital> <red><highlight>máš</highlight></red>?
+
+Test několikanásobného formátování - špatný formát zapsání:
+</green><<</sf saffas ihasf>dsfsdfs</fasdf>, <red><blue> fdsdsd</red>, <capital><green>ahoj</blue></capital>, <capital><green><blue>ahoj</blue></green></capital>, 
+<purple><capital>world</blue></capital></purple>
